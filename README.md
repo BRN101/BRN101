@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, i'm BRN101
 
-<!--
-**BRN101/BRN101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### He/Him
 
-Here are some ideas to get you started:
+### Programer and Rookie Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I know: Haxe
+
+### Learning: C++, Java, HTMl, CSS
+
+### Worked on: Retrospecter, Beepie, Minus Annie, Red, Rayna, Choclo
+
+###Working on: Rising Stars, EOI, Marshmello, DJX and more!
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=BRN101&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
