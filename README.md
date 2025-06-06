@@ -2,14 +2,14 @@
 
 ### He/Him
 
-### Programer and Rookie Developer
+### Junior Developer
 
-### What I know: Haxe
+### What I know: Haxe, Java, Web Development (HTML/CSS/JS), Python, C#, SQL
 
-### Learning: C++, Java, HTMl, CSS
+### Learning: Unity
 
 ### Worked on: Retrospecter, Beepie, Minus Annie, Red, Rayna, Choclo
 
-### Working on: Rising Stars, EOI, Marshmello, DJX and more!
+### Working on: 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=BRN101&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
