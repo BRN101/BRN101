@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="center">You don't have to save the world to find meaning in life... Sometimes all you need is something simple, like someone to take care of.</p>
+<i data-importer="text" align="center">You don't have to save the world to find meaning in life... Sometimes all you need is something simple, like someone to take care of.</i>
 
 ###
 
