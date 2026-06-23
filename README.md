@@ -43,10 +43,11 @@
 </div>
 
 ###
-
-<img data-importer="image" align="center" height="150" src="https://media.tenor.com/8gTfM0SzwEwAAAAC/evangelion-asuka-langley.gif"  />
-<img data-importer="image" align="center" height="150" src="https://media.tenor.com/awWmahoTX1gAAAAC/persona-joker.gif"  />
-<img data-importer="image" align="center" height="150" src="https://images.steamusercontent.com/ugc/824631518768982432/88A0AE792D151AB4E68FCBCB17495AC49B9A2719/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+<div align="center">
+    <img data-importer="image" align="center" height="150" src="https://media.tenor.com/8gTfM0SzwEwAAAAC/evangelion-asuka-langley.gif"  />
+    <img data-importer="image" align="center" height="150" src="https://media.tenor.com/awWmahoTX1gAAAAC/persona-joker.gif"  />
+    <img data-importer="image" align="center" height="150" src="https://images.steamusercontent.com/ugc/824631518768982432/88A0AE792D151AB4E68FCBCB17495AC49B9A2719/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+</div>
 
 ###
 
